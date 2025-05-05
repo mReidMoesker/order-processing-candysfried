@@ -8,16 +8,32 @@ namespace OrderProcessingSystem.Controllers
     {
         private readonly OrdersService _service = service;
 
+        // default page shows orders
         public IActionResult Index()
         {
             return View(_service.GetOrders());
         }
 
-        public IActionResult GetOrders()
+        // Creating Orders
+        [HttpGet]
+        public IActionResult Create()
         {
-            return View(_service.GetOrders());
+            return View();
         }
 
+        [HttpPost]
+        public IActionResult Create(Orders order)
+        {
+            if (!ModelState.IsValid)
+            {
+                return View(order);
+            }
+
+            _service.CreateOrder(order);
+            return RedirectToAction("Index");
+        }
+
+        // Deleting orders
         [HttpGet]
         public IActionResult DeleteOrders(int id)
         {
