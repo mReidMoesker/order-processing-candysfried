@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using System.Numerics;
 
 namespace OrderProcessingSystem.Models
 {
@@ -10,5 +11,6 @@ namespace OrderProcessingSystem.Models
         [Required]
         public string OrderDetails { get; set; }
         public int AmountDue { get; set; }
+        public bool isComplete { get; set; }
     }
 }

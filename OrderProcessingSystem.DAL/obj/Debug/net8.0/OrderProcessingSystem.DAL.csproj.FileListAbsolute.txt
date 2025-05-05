@@ -15,3 +15,4 @@ C:\Work\candys\OrderProcessingSystem\OrderProcessingSystem.DAL\obj\Debug\net8.0\
 C:\Work\candys\OrderProcessingSystem\OrderProcessingSystem.DAL\obj\Debug\net8.0\OrderProcessingSystem.DAL.pdb
 C:\Work\candys\OrderProcessingSystem\OrderProcessingSystem.DAL\obj\Debug\net8.0\OrderProcessingSystem.DAL.genruntimeconfig.cache
 C:\Work\candys\OrderProcessingSystem\OrderProcessingSystem.DAL\obj\Debug\net8.0\ref\OrderProcessingSystem.DAL.dll
+C:\Work\candys\OrderProcessingSystem\OrderProcessingSystem.DAL\obj\Debug\net8.0\OrderProcessingSystem.DAL.sourcelink.json

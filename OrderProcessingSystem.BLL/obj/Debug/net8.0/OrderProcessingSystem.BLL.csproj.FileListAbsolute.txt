@@ -17,3 +17,4 @@ C:\Work\candys\OrderProcessingSystem\OrderProcessingSystem.BLL\obj\Debug\net8.0\
 C:\Work\candys\OrderProcessingSystem\OrderProcessingSystem.BLL\obj\Debug\net8.0\OrderProcessingSystem.BLL.pdb
 C:\Work\candys\OrderProcessingSystem\OrderProcessingSystem.BLL\obj\Debug\net8.0\OrderProcessingSystem.BLL.genruntimeconfig.cache
 C:\Work\candys\OrderProcessingSystem\OrderProcessingSystem.BLL\obj\Debug\net8.0\ref\OrderProcessingSystem.BLL.dll
+C:\Work\candys\OrderProcessingSystem\OrderProcessingSystem.BLL\obj\Debug\net8.0\OrderProcessingSystem.BLL.sourcelink.json

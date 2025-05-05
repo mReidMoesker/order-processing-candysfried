@@ -12,3 +12,4 @@ C:\Work\candys\OrderProcessingSystem\OrderProcessingSystem.Models\obj\Debug\net8
 C:\Work\candys\OrderProcessingSystem\OrderProcessingSystem.Models\obj\Debug\net8.0\OrderProcessingSystem.Models.genruntimeconfig.cache
 C:\Work\candys\OrderProcessingSystem\OrderProcessingSystem.Models\obj\Debug\net8.0\ref\OrderProcessingSystem.Models.dll
 C:\Work\candys\OrderProcessingSystem\OrderProcessingSystem.Models\obj\Debug\net8.0\OrderProcessingSystem.Models.csproj.AssemblyReference.cache
+C:\Work\candys\OrderProcessingSystem\OrderProcessingSystem.Models\obj\Debug\net8.0\OrderProcessingSystem.Models.sourcelink.json
