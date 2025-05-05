@@ -15,7 +15,7 @@ namespace OrderProcessingSystem.Controllers
 
         public IActionResult GetOrders()
         {
-            return View(_service.GetOrders);
+            return View(_service.GetOrders());
         }
 
         [HttpGet]
