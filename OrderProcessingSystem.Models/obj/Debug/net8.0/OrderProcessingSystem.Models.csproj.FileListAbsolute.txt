@@ -1,0 +1,14 @@
+C:\Work\candys\OrderProcessingSystem\OrderProcessingSystem.Models\bin\Debug\net8.0\OrderProcessingSystem.Models.deps.json
+C:\Work\candys\OrderProcessingSystem\OrderProcessingSystem.Models\bin\Debug\net8.0\OrderProcessingSystem.Models.runtimeconfig.json
+C:\Work\candys\OrderProcessingSystem\OrderProcessingSystem.Models\bin\Debug\net8.0\OrderProcessingSystem.Models.dll
+C:\Work\candys\OrderProcessingSystem\OrderProcessingSystem.Models\bin\Debug\net8.0\OrderProcessingSystem.Models.pdb
+C:\Work\candys\OrderProcessingSystem\OrderProcessingSystem.Models\obj\Debug\net8.0\OrderProcessingSystem.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\candys\OrderProcessingSystem\OrderProcessingSystem.Models\obj\Debug\net8.0\OrderProcessingSystem.Models.AssemblyInfoInputs.cache
+C:\Work\candys\OrderProcessingSystem\OrderProcessingSystem.Models\obj\Debug\net8.0\OrderProcessingSystem.Models.AssemblyInfo.cs
+C:\Work\candys\OrderProcessingSystem\OrderProcessingSystem.Models\obj\Debug\net8.0\OrderProcessingSystem.Models.csproj.CoreCompileInputs.cache
+C:\Work\candys\OrderProcessingSystem\OrderProcessingSystem.Models\obj\Debug\net8.0\OrderProcessingSystem.Models.dll
+C:\Work\candys\OrderProcessingSystem\OrderProcessingSystem.Models\obj\Debug\net8.0\refint\OrderProcessingSystem.Models.dll
+C:\Work\candys\OrderProcessingSystem\OrderProcessingSystem.Models\obj\Debug\net8.0\OrderProcessingSystem.Models.pdb
+C:\Work\candys\OrderProcessingSystem\OrderProcessingSystem.Models\obj\Debug\net8.0\OrderProcessingSystem.Models.genruntimeconfig.cache
+C:\Work\candys\OrderProcessingSystem\OrderProcessingSystem.Models\obj\Debug\net8.0\ref\OrderProcessingSystem.Models.dll
+C:\Work\candys\OrderProcessingSystem\OrderProcessingSystem.Models\obj\Debug\net8.0\OrderProcessingSystem.Models.csproj.AssemblyReference.cache

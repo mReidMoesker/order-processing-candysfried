@@ -1,0 +1,17 @@
+C:\Work\candys\OrderProcessingSystem\OrderProcessingSystem.DAL\obj\Debug\net8.0\OrderProcessingSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\candys\OrderProcessingSystem\OrderProcessingSystem.DAL\obj\Debug\net8.0\OrderProcessingSystem.DAL.AssemblyInfoInputs.cache
+C:\Work\candys\OrderProcessingSystem\OrderProcessingSystem.DAL\obj\Debug\net8.0\OrderProcessingSystem.DAL.AssemblyInfo.cs
+C:\Work\candys\OrderProcessingSystem\OrderProcessingSystem.DAL\obj\Debug\net8.0\OrderProcessingSystem.DAL.csproj.CoreCompileInputs.cache
+C:\Work\candys\OrderProcessingSystem\OrderProcessingSystem.DAL\bin\Debug\net8.0\OrderProcessingSystem.DAL.deps.json
+C:\Work\candys\OrderProcessingSystem\OrderProcessingSystem.DAL\bin\Debug\net8.0\OrderProcessingSystem.DAL.runtimeconfig.json
+C:\Work\candys\OrderProcessingSystem\OrderProcessingSystem.DAL\bin\Debug\net8.0\OrderProcessingSystem.DAL.dll
+C:\Work\candys\OrderProcessingSystem\OrderProcessingSystem.DAL\bin\Debug\net8.0\OrderProcessingSystem.DAL.pdb
+C:\Work\candys\OrderProcessingSystem\OrderProcessingSystem.DAL\bin\Debug\net8.0\OrderProcessingSystem.Models.dll
+C:\Work\candys\OrderProcessingSystem\OrderProcessingSystem.DAL\bin\Debug\net8.0\OrderProcessingSystem.Models.pdb
+C:\Work\candys\OrderProcessingSystem\OrderProcessingSystem.DAL\obj\Debug\net8.0\OrderProcessingSystem.DAL.csproj.AssemblyReference.cache
+C:\Work\candys\OrderProcessingSystem\OrderProcessingSystem.DAL\obj\Debug\net8.0\OrderPro.28100E44.Up2Date
+C:\Work\candys\OrderProcessingSystem\OrderProcessingSystem.DAL\obj\Debug\net8.0\OrderProcessingSystem.DAL.dll
+C:\Work\candys\OrderProcessingSystem\OrderProcessingSystem.DAL\obj\Debug\net8.0\refint\OrderProcessingSystem.DAL.dll
+C:\Work\candys\OrderProcessingSystem\OrderProcessingSystem.DAL\obj\Debug\net8.0\OrderProcessingSystem.DAL.pdb
+C:\Work\candys\OrderProcessingSystem\OrderProcessingSystem.DAL\obj\Debug\net8.0\OrderProcessingSystem.DAL.genruntimeconfig.cache
+C:\Work\candys\OrderProcessingSystem\OrderProcessingSystem.DAL\obj\Debug\net8.0\ref\OrderProcessingSystem.DAL.dll
