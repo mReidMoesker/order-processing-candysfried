@@ -28,9 +28,9 @@
                         <label for="OrderDetails" class="form-label">Order Details</label>
                         <input name="OrderDetails" class="form-control" />
                     </div>
-                    <div class="mb-3 form-check">
-                        <input name="IsComplete" class="form-check-input" type="checkbox" />
-                        <label for="IsComplete" class="form-check-label">Is Complete</label>
+                    <div class="mb-3">
+                        <label for="AmountDue" class="form-label">Amount Due</label>
+                        <input name="AmountDue" class="form-control" />
                     </div>
                 </div>
                 <div class="modal-footer">
@@ -64,7 +64,7 @@
                         <tr>
                             <td>@order.OrderId</td>
                             <td>@order.CustomerName</td>
-                            <td>@order.OrderDetails</td>
+                            <td>@order.OrderDetails ($@order.AmountDue)</td>
                             <td>
                                 <button class="btn btn-success btn-sm toggle-status" data-id="@order.OrderId" data-status="true">Mark Complete</button>
                                 <button class="btn btn-danger btn-sm" data-bs-toggle="modal" data-bs-target="#deleteModal-@order.OrderId">Delete</button>

@@ -6,6 +6,8 @@ namespace OrderProcessingSystem.Models
     public class Orders
     {
         public int OrderId { get; set; }
+
+        [Required]
         public string CustomerName { get; set; }
 
         [Required]

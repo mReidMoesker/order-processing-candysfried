@@ -35,7 +35,7 @@ namespace OrderProcessingSystem.DAL
 
         public Orders GetOrderById(int id)
         {
-            return _context.Orders.FirstOrDefault(o => o.OrderId == id);
+            return _context.Orders.FirstOrDefault(o => o.OrderId == id)!;
         }
 
         public bool UpdateOrder(Orders order)

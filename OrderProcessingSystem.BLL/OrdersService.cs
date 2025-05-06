@@ -20,7 +20,7 @@ namespace OrderProcessingSystem.BLL
             {
                 return new Orders();
             }
-            return selected;
+            return selected!;
         }
 
         public async Task<bool> DeleteOrderAsync(int id)
@@ -52,7 +52,7 @@ namespace OrderProcessingSystem.BLL
         // Toggle order status as complete/incomplete
         public bool ToggleOrderStatus(int id, bool isComplete)
         {
-            var order = _repo.GetOrderById(id);
+            Orders? order = _repo.GetOrderById(id);
             if (order == null)
             {
                 return false;

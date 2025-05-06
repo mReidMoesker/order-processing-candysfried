@@ -1,4 +1,6 @@
-﻿document.addEventListener("DOMContentLoaded", function () {
+﻿'use strict';
+
+document.addEventListener("DOMContentLoaded", function () {
     var forms = document.querySelectorAll(".delete-form");
 
     forms.forEach(function (form) {
