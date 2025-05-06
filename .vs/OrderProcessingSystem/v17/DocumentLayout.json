@@ -7,28 +7,32 @@
       "RelativeMoniker": "D:0:0:{8214FA78-6C6A-4B45-9AC3-2E075591CD12}|OrderProcessingSystem\\OrderProcessingSystem.csproj|solutionrelative:orderprocessingsystem\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8214FA78-6C6A-4B45-9AC3-2E075591CD12}|OrderProcessingSystem\\OrderProcessingSystem.csproj|c:\\work\\candys\\orderprocessingsystem\\orderprocessingsystem\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{8214FA78-6C6A-4B45-9AC3-2E075591CD12}|OrderProcessingSystem\\OrderProcessingSystem.csproj|solutionrelative:orderprocessingsystem\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{8214FA78-6C6A-4B45-9AC3-2E075591CD12}|OrderProcessingSystem\\OrderProcessingSystem.csproj|c:\\work\\candys\\orderprocessingsystem\\orderprocessingsystem\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8214FA78-6C6A-4B45-9AC3-2E075591CD12}|OrderProcessingSystem\\OrderProcessingSystem.csproj|solutionrelative:orderprocessingsystem\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8214FA78-6C6A-4B45-9AC3-2E075591CD12}|OrderProcessingSystem\\OrderProcessingSystem.csproj|c:\\work\\candys\\orderprocessingsystem\\orderprocessingsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8214FA78-6C6A-4B45-9AC3-2E075591CD12}|OrderProcessingSystem\\OrderProcessingSystem.csproj|solutionrelative:orderprocessingsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E4F87295-FE72-4F1F-8722-34A455DB5F1E}|OrderProcessingSystem.BLL\\OrderProcessingSystem.BLL.csproj|c:\\work\\candys\\orderprocessingsystem\\orderprocessingsystem.bll\\ordersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F87295-FE72-4F1F-8722-34A455DB5F1E}|OrderProcessingSystem.BLL\\OrderProcessingSystem.BLL.csproj|solutionrelative:orderprocessingsystem.bll\\ordersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8214FA78-6C6A-4B45-9AC3-2E075591CD12}|OrderProcessingSystem\\OrderProcessingSystem.csproj|c:\\work\\candys\\orderprocessingsystem\\orderprocessingsystem\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8214FA78-6C6A-4B45-9AC3-2E075591CD12}|OrderProcessingSystem\\OrderProcessingSystem.csproj|solutionrelative:orderprocessingsystem\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AEFE4B5-5AAD-4C9D-A5D0-48F3FCBCDFDD}|OrderProcessingSystem.Models\\OrderProcessingSystem.Models.csproj|c:\\work\\candys\\orderprocessingsystem\\orderprocessingsystem.models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AEFE4B5-5AAD-4C9D-A5D0-48F3FCBCDFDD}|OrderProcessingSystem.Models\\OrderProcessingSystem.Models.csproj|solutionrelative:orderprocessingsystem.models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E45701F6-0CB2-442C-A142-936CCAD3A3BD}|OrderProcessingSystem.DAL\\OrderProcessingSystem.DAL.csproj|c:\\work\\candys\\orderprocessingsystem\\orderprocessingsystem.dal\\ordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E45701F6-0CB2-442C-A142-936CCAD3A3BD}|OrderProcessingSystem.DAL\\OrderProcessingSystem.DAL.csproj|solutionrelative:orderprocessingsystem.dal\\ordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8214FA78-6C6A-4B45-9AC3-2E075591CD12}|OrderProcessingSystem\\OrderProcessingSystem.csproj|c:\\work\\candys\\orderprocessingsystem\\orderprocessingsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8214FA78-6C6A-4B45-9AC3-2E075591CD12}|OrderProcessingSystem\\OrderProcessingSystem.csproj|solutionrelative:orderprocessingsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8214FA78-6C6A-4B45-9AC3-2E075591CD12}|OrderProcessingSystem\\OrderProcessingSystem.csproj|c:\\work\\candys\\orderprocessingsystem\\orderprocessingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8214FA78-6C6A-4B45-9AC3-2E075591CD12}|OrderProcessingSystem\\OrderProcessingSystem.csproj|solutionrelative:orderprocessingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E45701F6-0CB2-442C-A142-936CCAD3A3BD}|OrderProcessingSystem.DAL\\OrderProcessingSystem.DAL.csproj|c:\\work\\candys\\orderprocessingsystem\\orderprocessingsystem.dal\\ordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E45701F6-0CB2-442C-A142-936CCAD3A3BD}|OrderProcessingSystem.DAL\\OrderProcessingSystem.DAL.csproj|solutionrelative:orderprocessingsystem.dal\\ordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4AEFE4B5-5AAD-4C9D-A5D0-48F3FCBCDFDD}|OrderProcessingSystem.Models\\OrderProcessingSystem.Models.csproj|c:\\work\\candys\\orderprocessingsystem\\orderprocessingsystem.models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AEFE4B5-5AAD-4C9D-A5D0-48F3FCBCDFDD}|OrderProcessingSystem.Models\\OrderProcessingSystem.Models.csproj|solutionrelative:orderprocessingsystem.models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,34 +42,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 9,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Work\\candys\\OrderProcessingSystem\\OrderProcessingSystem\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "OrderProcessingSystem\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Work\\candys\\OrderProcessingSystem\\OrderProcessingSystem\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "OrderProcessingSystem\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-05-06T14:11:43.527Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Work\\candys\\OrderProcessingSystem\\OrderProcessingSystem\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "OrderProcessingSystem\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Work\\candys\\OrderProcessingSystem\\OrderProcessingSystem\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "OrderProcessingSystem\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-06T14:10:47.031Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
@@ -80,33 +58,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "OrdersRepository.cs",
               "DocumentMoniker": "C:\\Work\\candys\\OrderProcessingSystem\\OrderProcessingSystem.DAL\\OrdersRepository.cs",
               "RelativeDocumentMoniker": "OrderProcessingSystem.DAL\\OrdersRepository.cs",
               "ToolTip": "C:\\Work\\candys\\OrderProcessingSystem\\OrderProcessingSystem.DAL\\OrdersRepository.cs",
               "RelativeToolTip": "OrderProcessingSystem.DAL\\OrdersRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwDAAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T13:57:53.078Z",
+              "WhenOpened": "2025-05-06T15:26:58.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrdersService.cs",
+              "DocumentMoniker": "C:\\Work\\candys\\OrderProcessingSystem\\OrderProcessingSystem.BLL\\OrdersService.cs",
+              "RelativeDocumentMoniker": "OrderProcessingSystem.BLL\\OrdersService.cs",
+              "ToolTip": "C:\\Work\\candys\\OrderProcessingSystem\\OrderProcessingSystem.BLL\\OrdersService.cs",
+              "RelativeToolTip": "OrderProcessingSystem.BLL\\OrdersService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T15:25:44.968Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Work\\candys\\OrderProcessingSystem\\OrderProcessingSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "OrderProcessingSystem\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Work\\candys\\OrderProcessingSystem\\OrderProcessingSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "OrderProcessingSystem\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T15:06:24.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Work\\candys\\OrderProcessingSystem\\OrderProcessingSystem\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "OrderProcessingSystem\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Work\\candys\\OrderProcessingSystem\\OrderProcessingSystem\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "OrderProcessingSystem\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-06T15:01:11.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Work\\candys\\OrderProcessingSystem\\OrderProcessingSystem\\Program.cs",
               "RelativeDocumentMoniker": "OrderProcessingSystem\\Program.cs",
               "ToolTip": "C:\\Work\\candys\\OrderProcessingSystem\\OrderProcessingSystem\\Program.cs",
               "RelativeToolTip": "OrderProcessingSystem\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-06T13:55:56.71Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Orders.cs",
               "DocumentMoniker": "C:\\Work\\candys\\OrderProcessingSystem\\OrderProcessingSystem.Models\\Orders.cs",
               "RelativeDocumentMoniker": "OrderProcessingSystem.Models\\Orders.cs",
@@ -125,7 +142,7 @@
               "RelativeDocumentMoniker": "OrderProcessingSystem\\Views\\Orders\\Index.cshtml",
               "ToolTip": "C:\\Work\\candys\\OrderProcessingSystem\\OrderProcessingSystem\\Views\\Orders\\Index.cshtml",
               "RelativeToolTip": "OrderProcessingSystem\\Views\\Orders\\Index.cshtml",
-              "ViewState": "AgIAACYAAAAAAAAAAAAgwDAAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAgwCgAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-05T19:15:35.357Z",
               "EditorCaption": ""
@@ -138,7 +155,7 @@
               "RelativeDocumentMoniker": "OrderProcessingSystem\\Controllers\\OrdersController.cs",
               "ToolTip": "C:\\Work\\candys\\OrderProcessingSystem\\OrderProcessingSystem\\Controllers\\OrdersController.cs",
               "RelativeToolTip": "OrderProcessingSystem\\Controllers\\OrdersController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAtwEYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-05T19:14:40.711Z",
               "EditorCaption": ""

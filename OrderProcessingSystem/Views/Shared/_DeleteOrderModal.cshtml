@@ -1,0 +1,16 @@
+﻿@model OrderProcessingSystem.Models.Orders
+
+<form asp-action="DeleteOrdersConfirmed" method="post">
+    <input type="hidden" name="id" value="@Model.OrderId" />
+    <div class="modal-header">
+        <h5 class="modal-title">Delete Order</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+    </div>
+    <div class="modal-body">
+        Are you sure you want to delete order <strong>@Model.CustomerName</strong>?
+    </div>
+    <div class="modal-footer">
+        <button type="submit" class="btn btn-danger">Delete</button>
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+    </div>
+</form>

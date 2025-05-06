@@ -7,8 +7,42 @@
 }
 
 <h2>Orders</h2>
+<button class="btn btn-primary mb-3" data-bs-toggle="modal" data-bs-target="#createModal">Add Order</button>
 <hr />
-<br />
+
+<!-- create modal -->
+<div class="modal fade" id="createModal" tabindex="-1">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <form asp-action="Create" method="post">
+                <div class="modal-header">
+                    <h5 class="modal-title">Add Order</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                </div>
+                <div class="modal-body">
+                    <div class="mb-3">
+                        <label for="CustomerName" class="form-label">Customer Name</label>
+                        <input name="CustomerName" class="form-control" />
+                    </div>
+                    <div class="mb-3">
+                        <label for="OrderDetails" class="form-label">Order Details</label>
+                        <input name="OrderDetails" class="form-control" />
+                    </div>
+                    <div class="mb-3 form-check">
+                        <input name="IsComplete" class="form-check-input" type="checkbox" />
+                        <label for="IsComplete" class="form-check-label">Is Complete</label>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="submit" class="btn btn-primary">Create</button>
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<hr />
 
 <div class="row">
     <div class="col-md-6 border-incomplete">
@@ -25,14 +59,37 @@
                     </tr>
                 </thead>
                 <tbody>
-                    @foreach (var order in incompleteOrders)
+                    @foreach (Orders order in incompleteOrders)
                     {
                         <tr>
                             <td>@order.OrderId</td>
                             <td>@order.CustomerName</td>
                             <td>@order.OrderDetails</td>
                             <td>
-                                <a asp-action="DeleteOrders" asp-route-id="@order.OrderId" class="btn btn-danger btn-sm">Delete</a>
+                                <button class="btn btn-success btn-sm toggle-status" data-id="@order.OrderId" data-status="true">Mark Complete</button>
+                                <button class="btn btn-danger btn-sm" data-bs-toggle="modal" data-bs-target="#deleteModal-@order.OrderId">Delete</button>
+
+                                <!-- delete modal -->
+                                <div class="modal fade" id="deleteModal-@order.OrderId" tabindex="-1">
+                                    <div class="modal-dialog">
+                                        <div class="modal-content">
+                                            <form class="delete-form" action="/Orders/DeleteOrdersConfirmed" method="post">
+                                                <input type="hidden" name="id" value="@order.OrderId" />
+                                                <div class="modal-header">
+                                                    <h5 class="modal-title">Delete Order</h5>
+                                                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                                </div>
+                                                <div class="modal-body">
+                                                    Are you sure you want to delete <strong>@order.CustomerName</strong>?
+                                                </div>
+                                                <div class="modal-footer">
+                                                    <button type="submit" class="btn btn-danger">Delete</button>
+                                                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+                                                </div>
+                                            </form>
+                                        </div>
+                                    </div>
+                                </div>
                             </td>
                         </tr>
                     }
@@ -59,14 +116,37 @@
                     </tr>
                 </thead>
                 <tbody>
-                    @foreach (var order in completeOrders)
+                    @foreach (Orders order in completeOrders)
                     {
                         <tr>
                             <td>@order.OrderId</td>
                             <td>@order.CustomerName</td>
                             <td>@order.OrderDetails</td>
                             <td>
-                                <a asp-action="DeleteOrders" asp-route-id="@order.OrderId" class="btn btn-danger btn-sm">Delete</a>
+                                <button class="btn btn-warning btn-sm toggle-status" data-id="@order.OrderId" data-status="false">Mark Incomplete</button>
+                                <button class="btn btn-danger btn-sm" data-bs-toggle="modal" data-bs-target="#deleteModal-@order.OrderId">Delete</button>
+
+                                <!-- delete modal -->
+                                <div class="modal fade" id="deleteModal-@order.OrderId" tabindex="-1">
+                                    <div class="modal-dialog">
+                                        <div class="modal-content">
+                                            <form class="delete-form" action="/Orders/DeleteOrdersConfirmed" method="post">
+                                                <input type="hidden" name="id" value="@order.OrderId" />
+                                                <div class="modal-header">
+                                                    <h5 class="modal-title">Delete Order</h5>
+                                                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                                </div>
+                                                <div class="modal-body">
+                                                    Are you sure you want to delete <strong>@order.CustomerName</strong>?
+                                                </div>
+                                                <div class="modal-footer">
+                                                    <button type="submit" class="btn btn-danger">Delete</button>
+                                                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+                                                </div>
+                                            </form>
+                                        </div>
+                                    </div>
+                                </div>
                             </td>
                         </tr>
                     }

@@ -38,7 +38,7 @@ namespace OrderProcessingSystem.Controllers
         public IActionResult DeleteOrders(int id)
         {
             Orders order = _service.GetOrdersById(id);
-            if (order != null)
+            if (order == null)
             {
                 return NotFound();
             }
@@ -47,15 +47,25 @@ namespace OrderProcessingSystem.Controllers
         }
 
         [HttpPost]
-        public IActionResult DeleteOrdersConfirmed(int id)
+        public async Task<IActionResult> DeleteOrdersConfirmed(int id)
         {
-            bool deleted = _service.DeleteOrder(id);
-            if (!deleted)
-            {
-                return NotFound();
-            }
+            bool deleted = await _service.DeleteOrderAsync(id);
+            return deleted ? Ok() : NotFound();
+        }
 
-            return RedirectToAction("Index");
+        [HttpPost]
+        public IActionResult ToggleOrderStatus([FromBody] ToggleStatusDto dto)
+        {
+            bool result = _service.ToggleOrderStatus(dto.Id, dto.IsComplete);
+            if (!result) return NotFound();
+
+            return Ok();
+        }
+
+        public class ToggleStatusDto
+        {
+            public int Id { get; set; }
+            public bool IsComplete { get; set; }
         }
     }
 }
