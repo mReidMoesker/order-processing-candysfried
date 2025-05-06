@@ -11,6 +11,6 @@ namespace OrderProcessingSystem.Models
         [Required]
         public string OrderDetails { get; set; }
         public int AmountDue { get; set; }
-        public bool isComplete { get; set; }
+        public bool IsComplete { get; set; }
     }
 }

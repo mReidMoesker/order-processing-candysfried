@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Work\\candys\\OrderProcessingSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E45701F6-0CB2-442C-A142-936CCAD3A3BD}|OrderProcessingSystem.DAL\\OrderProcessingSystem.DAL.csproj|c:\\work\\candys\\orderprocessingsystem\\orderprocessingsystem.dal\\ordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E45701F6-0CB2-442C-A142-936CCAD3A3BD}|OrderProcessingSystem.DAL\\OrderProcessingSystem.DAL.csproj|solutionrelative:orderprocessingsystem.dal\\ordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8214FA78-6C6A-4B45-9AC3-2E075591CD12}|OrderProcessingSystem\\OrderProcessingSystem.csproj|c:\\work\\candys\\orderprocessingsystem\\orderprocessingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8214FA78-6C6A-4B45-9AC3-2E075591CD12}|OrderProcessingSystem\\OrderProcessingSystem.csproj|solutionrelative:orderprocessingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8214FA78-6C6A-4B45-9AC3-2E075591CD12}|OrderProcessingSystem\\OrderProcessingSystem.csproj|c:\\work\\candys\\orderprocessingsystem\\orderprocessingsystem\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8214FA78-6C6A-4B45-9AC3-2E075591CD12}|OrderProcessingSystem\\OrderProcessingSystem.csproj|solutionrelative:orderprocessingsystem\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4AEFE4B5-5AAD-4C9D-A5D0-48F3FCBCDFDD}|OrderProcessingSystem.Models\\OrderProcessingSystem.Models.csproj|c:\\work\\candys\\orderprocessingsystem\\orderprocessingsystem.models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4AEFE4B5-5AAD-4C9D-A5D0-48F3FCBCDFDD}|OrderProcessingSystem.Models\\OrderProcessingSystem.Models.csproj|solutionrelative:orderprocessingsystem.models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8214FA78-6C6A-4B45-9AC3-2E075591CD12}|OrderProcessingSystem\\OrderProcessingSystem.csproj|c:\\work\\candys\\orderprocessingsystem\\orderprocessingsystem\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8214FA78-6C6A-4B45-9AC3-2E075591CD12}|OrderProcessingSystem\\OrderProcessingSystem.csproj|solutionrelative:orderprocessingsystem\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4F87295-FE72-4F1F-8722-34A455DB5F1E}|OrderProcessingSystem.BLL\\OrderProcessingSystem.BLL.csproj|c:\\work\\candys\\orderprocessingsystem\\orderprocessingsystem.bll\\ordersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4F87295-FE72-4F1F-8722-34A455DB5F1E}|OrderProcessingSystem.BLL\\OrderProcessingSystem.BLL.csproj|solutionrelative:orderprocessingsystem.bll\\ordersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E45701F6-0CB2-442C-A142-936CCAD3A3BD}|OrderProcessingSystem.DAL\\OrderProcessingSystem.DAL.csproj|c:\\work\\candys\\orderprocessingsystem\\orderprocessingsystem.dal\\ordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E45701F6-0CB2-442C-A142-936CCAD3A3BD}|OrderProcessingSystem.DAL\\OrderProcessingSystem.DAL.csproj|solutionrelative:orderprocessingsystem.dal\\ordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E45701F6-0CB2-442C-A142-936CCAD3A3BD}|OrderProcessingSystem.DAL\\OrderProcessingSystem.DAL.csproj|c:\\work\\candys\\orderprocessingsystem\\orderprocessingsystem.dal\\orderprocessingsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E45701F6-0CB2-442C-A142-936CCAD3A3BD}|OrderProcessingSystem.DAL\\OrderProcessingSystem.DAL.csproj|solutionrelative:orderprocessingsystem.dal\\orderprocessingsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,67 +46,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "OrdersController.cs",
-              "DocumentMoniker": "C:\\Work\\candys\\OrderProcessingSystem\\OrderProcessingSystem\\Controllers\\OrdersController.cs",
-              "RelativeDocumentMoniker": "OrderProcessingSystem\\Controllers\\OrdersController.cs",
-              "ToolTip": "C:\\Work\\candys\\OrderProcessingSystem\\OrderProcessingSystem\\Controllers\\OrdersController.cs",
-              "RelativeToolTip": "OrderProcessingSystem\\Controllers\\OrdersController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAADAAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T17:46:09.861Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "OrdersService.cs",
-              "DocumentMoniker": "C:\\Work\\candys\\OrderProcessingSystem\\OrderProcessingSystem.BLL\\OrdersService.cs",
-              "RelativeDocumentMoniker": "OrderProcessingSystem.BLL\\OrdersService.cs",
-              "ToolTip": "C:\\Work\\candys\\OrderProcessingSystem\\OrderProcessingSystem.BLL\\OrdersService.cs",
-              "RelativeToolTip": "OrderProcessingSystem.BLL\\OrdersService.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCYAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T15:35:07.928Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "OrdersRepository.cs",
               "DocumentMoniker": "C:\\Work\\candys\\OrderProcessingSystem\\OrderProcessingSystem.DAL\\OrdersRepository.cs",
               "RelativeDocumentMoniker": "OrderProcessingSystem.DAL\\OrdersRepository.cs",
               "ToolTip": "C:\\Work\\candys\\OrderProcessingSystem\\OrderProcessingSystem.DAL\\OrdersRepository.cs",
               "RelativeToolTip": "OrderProcessingSystem.DAL\\OrdersRepository.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwB4AAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wBcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T14:36:34.737Z",
+              "WhenOpened": "2025-05-06T13:57:53.078Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "OrderProcessingSystemContext.cs",
-              "DocumentMoniker": "C:\\Work\\candys\\OrderProcessingSystem\\OrderProcessingSystem.DAL\\OrderProcessingSystemContext.cs",
-              "RelativeDocumentMoniker": "OrderProcessingSystem.DAL\\OrderProcessingSystemContext.cs",
-              "ToolTip": "C:\\Work\\candys\\OrderProcessingSystem\\OrderProcessingSystem.DAL\\OrderProcessingSystemContext.cs",
-              "RelativeToolTip": "OrderProcessingSystem.DAL\\OrderProcessingSystemContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA1AAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Work\\candys\\OrderProcessingSystem\\OrderProcessingSystem\\Program.cs",
+              "RelativeDocumentMoniker": "OrderProcessingSystem\\Program.cs",
+              "ToolTip": "C:\\Work\\candys\\OrderProcessingSystem\\OrderProcessingSystem\\Program.cs",
+              "RelativeToolTip": "OrderProcessingSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T13:55:30.483Z",
+              "WhenOpened": "2025-05-06T13:55:56.71Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Orders.cs",
               "DocumentMoniker": "C:\\Work\\candys\\OrderProcessingSystem\\OrderProcessingSystem.Models\\Orders.cs",
               "RelativeDocumentMoniker": "OrderProcessingSystem.Models\\Orders.cs",
               "ToolTip": "C:\\Work\\candys\\OrderProcessingSystem\\OrderProcessingSystem.Models\\Orders.cs",
               "RelativeToolTip": "OrderProcessingSystem.Models\\Orders.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T13:51:02.636Z",
+              "WhenOpened": "2025-05-06T13:52:01.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Work\\candys\\OrderProcessingSystem\\OrderProcessingSystem\\Views\\Orders\\Index.cshtml",
+              "RelativeDocumentMoniker": "OrderProcessingSystem\\Views\\Orders\\Index.cshtml",
+              "ToolTip": "C:\\Work\\candys\\OrderProcessingSystem\\OrderProcessingSystem\\Views\\Orders\\Index.cshtml",
+              "RelativeToolTip": "OrderProcessingSystem\\Views\\Orders\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T19:15:35.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Work\\candys\\OrderProcessingSystem\\OrderProcessingSystem\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "OrderProcessingSystem\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Work\\candys\\OrderProcessingSystem\\OrderProcessingSystem\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "OrderProcessingSystem\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAwwCoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T19:14:40.711Z",
               "EditorCaption": ""
             }
           ]

@@ -7,20 +7,15 @@ namespace OrderProcessingSystem.DAL
         private readonly OrderProcessingSystemContext _context = context;
         public List<Orders> GetOrders()
         {
-            return _context.Orders
-                .Include(o => o.CustomerName)
-                .Include(o => o.OrderDetails)
-                .ToList();
+            return _context.Orders.ToList();
         }
 
         public Orders GetOrdersById(int id)
         {
-            Orders? selected = _context.Orders
-                .Include(o => o.CustomerName)
-                .Include(o => o.OrderDetails)
-                .FirstOrDefault(o => o.OrderId == id);
-            return selected;
+            return _context.Orders
+                .FirstOrDefault(o => o.OrderId == id)!;
         }
+
 
         public void DeleteOrder(Orders order)
         {

@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using OrderProcessingSystem.BLL;
 using OrderProcessingSystem.DAL;
 
 namespace OrderProcessingSystem
@@ -15,6 +16,9 @@ namespace OrderProcessingSystem
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+            builder.Services.AddScoped<OrdersService>();
+            builder.Services.AddScoped<OrdersRepository>();
+            builder.Services.AddScoped<OrderProcessingSystemContext>();
 
             var app = builder.Build();
 
