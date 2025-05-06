@@ -16,7 +16,6 @@ namespace OrderProcessingSystem.DAL
                 .FirstOrDefault(o => o.OrderId == id)!;
         }
 
-
         public void DeleteOrder(Orders order)
         {
             _context.Orders.Remove(order);
