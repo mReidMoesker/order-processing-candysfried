@@ -1,7 +1,7 @@
 ﻿'use strict';
 
 document.addEventListener("DOMContentLoaded", function () {
-    var forms = document.querySelectorAll(".delete-form");
+    let forms = document.querySelectorAll(".delete-form");
 
     forms.forEach(function (form) {
         form.addEventListener("submit", function (e) {
@@ -17,12 +17,10 @@ document.addEventListener("DOMContentLoaded", function () {
             })
                 .then(function (response) {
                     if (response.ok) {
-                        // Close the modal
-                        var orderId = form.querySelector('input[name="id"]').value;
-                        var modal = bootstrap.Modal.getInstance(document.getElementById('deleteModal-' + orderId));
+                        let orderId = form.querySelector('input[name="id"]').value;
+                        let modal = bootstrap.Modal.getInstance(document.getElementById('deleteModal-' + orderId));
                         modal.hide();
 
-                        // Reload the page to see changes
                         location.reload();
                     } else if (response.status === 404) {
                         alert("Order not found or already deleted.");
