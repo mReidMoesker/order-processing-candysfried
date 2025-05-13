@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     } else if (response.status === 404) {
                         alert("Order not found or already deleted.");
                     } else {
-                        alert("Failed to delete order. Status: " + response.status);
+                        alert("Failed to delete order. Status: " + response.status + ". Call 204-312-7852 for help or email mathewmoesker@gmail.com");
                     }
                 })
                 .catch(function (error) {

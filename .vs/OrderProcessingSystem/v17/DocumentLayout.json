@@ -70,8 +70,7 @@
               "RelativeToolTip": "OrderProcessingSystem\\Views\\Orders\\Index.cshtml",
               "ViewState": "AgIAADMAAAAAAAAAAAAAAH4AAACZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-05T19:15:35.357Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T19:15:35.357Z"
             },
             {
               "$type": "Document",
@@ -95,8 +94,7 @@
               "RelativeToolTip": "OrderProcessingSystem\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-06T15:06:24.88Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T15:06:24.88Z"
             },
             {
               "$type": "Document",
@@ -130,7 +128,7 @@
               "RelativeDocumentMoniker": "OrderProcessingSystem\\wwwroot\\js\\site.js",
               "ToolTip": "C:\\Work\\candys\\OrderProcessingSystem\\OrderProcessingSystem\\wwwroot\\js\\site.js",
               "RelativeToolTip": "OrderProcessingSystem\\wwwroot\\js\\site.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABJAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACgAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-05-06T15:01:11.06Z",
               "EditorCaption": ""
